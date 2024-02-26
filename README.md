@@ -3,5 +3,5 @@
 
 ##### contact me:
 ###### dibym@proton.me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/frErDjHStx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dibymohapatra)
+[![Discord](https://img.shields.io/badge/Discord%20Server-darkslateblue.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/frErDjHStx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dibymohapatra)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xdiby) -->
